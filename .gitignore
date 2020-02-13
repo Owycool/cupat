@@ -1,0 +1,10 @@
+#qss/
+#ui_denerated/
+__pycache__/
+*.so
+bin/
+venv/
+.idea/
+.git/
+*.user
+.sass-cache/
